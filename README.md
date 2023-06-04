@@ -4,7 +4,7 @@
 <br>
 This is a simple Java password application. <br> 
 A graphical user interface (handcoded with <br> 
-Swing Tools) prompts user for the desired <br> 
+JAVAFX Tools) prompts user for the desired <br> 
 length of password,and generates a complex <br> 
 password for the user.
 <br>
